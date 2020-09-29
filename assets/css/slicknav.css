@@ -3,6 +3,22 @@
  * (c) 2016 Josh Cope
  * licensed under MIT
  */
+ #capa{
+   float: left;
+   
+ }
+ #capatext{
+   float: right;
+   
+ }
+ #fundo{
+   background-image: url(../img/hero/h1_hero.png);
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 800px;
+  
+ }
+
 .slicknav_btn {
   position: relative;
   display: block;
